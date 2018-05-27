@@ -35,4 +35,25 @@ configuration_options =
                     }, 
         default = 5,
     },
+	{
+        name = "balloon_range",
+        label = "Range",
+        options =    {
+                        {description = "2", data = 2},
+                        {description = "3", data = 3},
+                        {description = "4", data = 4},
+                        {description = "5", data = 5},
+                        {description = "6", data = 6},
+                        {description = "7", data = 7},
+						{description = "8", data = 8},
+						{description = "9", data = 9},
+						{description = "10", data = 10},
+						{description = "11", data = 11},
+						{description = "12", data = 12},
+						{description = "13", data = 13},
+						{description = "14", data = 14},
+						{description = "15", data = 15},
+                    }, 
+        default = 2,
+    }
 } 
